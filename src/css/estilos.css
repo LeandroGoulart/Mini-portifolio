@@ -88,13 +88,13 @@ body{
 }
 
 .informacoes-abas .sub-titulo{
-    font-size: 22px;
+    font-size: 20px;
     margin-bottom: 25px;
     text-align: center;
 }
 
 .informacoes-abas .descricao{
-    font-size: 20px;
+    font-size: 11px;
     max-height: 180px;
     overflow-y: auto;
     padding-right: 15px;
