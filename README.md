@@ -1,5 +1,8 @@
 # Mini Portfólio
 
+![Mini-Portfólio_Capa](https://github.com/LeandroGoulart/Mini-portifolio/assets/82618246/a0a4e712-3a9e-45cf-9bfe-d86b62f30ed3)
+
+
 Bem-vindo ao meu mini portfólio! Este repositório contém um pequeno projeto que demonstra minhas habilidades em desenvolvimento web utilizando HTML, CSS e JavaScript.
 
 
